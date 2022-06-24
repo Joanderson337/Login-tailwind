@@ -40,7 +40,7 @@ Mobile
 
 1. `git clone` nesse repositório;
 2. Acessa pasta do repositório e executa `yarn` ou `npm` pra instalar as dependências;
-3. Executa `yarn dev` ou `npm run dev` pra iniciar o Expo
+3. Executa `yarn dev` ou `npm run dev` pra iniciar o projeto
 
 
 
