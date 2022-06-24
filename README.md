@@ -44,7 +44,7 @@ Mobile
 
 
 
-👋🏽 Entre em contato!
+## 👋🏽 Entre em contato!
 <br/>
 
 
