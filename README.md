@@ -18,8 +18,11 @@ Link do Desafio
   <img align="center" alt="Js" height="30" width="90" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 
 
-  
-</div>
+## Para executar o projeto ⤸
+
+1. `git clone` nesse repositório;
+2. Acessa pasta do repositório e executa `yarn` ou `npm` pra instalar as dependências;
+3. Executa `yarn dev` ou `npm run dev` pra iniciar o projeto
 
 ## Screenshots
 
@@ -27,21 +30,11 @@ Desktop
 <br>
 ![image](https://user-images.githubusercontent.com/77758027/175346747-65f40a99-f929-4aee-84a0-377c5dbd30ad.png)
 
-
-
 <br>
-
 
 Mobile
 <br>
 ![image](https://user-images.githubusercontent.com/77758027/175346816-a574cab3-849b-48dd-887f-5d970387924e.png)
-
-## Para executar o projeto ⤸
-
-1. `git clone` nesse repositório;
-2. Acessa pasta do repositório e executa `yarn` ou `npm` pra instalar as dependências;
-3. Executa `yarn dev` ou `npm run dev` pra iniciar o projeto
-
 
 
 ## 👋🏽 Entre em contato!
