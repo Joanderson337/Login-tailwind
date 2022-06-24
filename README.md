@@ -36,7 +36,7 @@ Mobile
 <br>
 ![image](https://user-images.githubusercontent.com/77758027/175346816-a574cab3-849b-48dd-887f-5d970387924e.png)
 
-## Executar
+## Para executar o projeto ⤸
 
 1. `git clone` nesse repositório;
 2. Acessa pasta do repositório e executa `yarn` ou `npm` pra instalar as dependências;
